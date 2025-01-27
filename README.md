@@ -37,10 +37,10 @@ A digital forensics tool designed to revolutionize investigations.
 
 ---
 
-### 2️⃣ [File Integrity Monitoring with Deep Learning](#link-to-repo)  
+### 2️⃣ [File Integrity Monitoring with Deep Learning](https://github.com/ozaksen/FileOps-Anomaly-Detection)  
 A deep learning-based anomaly detection system for file integrity monitoring.  
 🔧 **Tech**: `Python` `TensorFlow/Keras`  
-📚 [View Repository](#link-to-repo)
+📚 [View Repository](https://github.com/ozaksen/FileOps-Anomaly-Detection)
 
 ---
 
